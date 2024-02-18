@@ -24,10 +24,7 @@ const About = () => {
             <div>
               <p>
                 {" "}
-                A software developer with experience in building Responsive and
-                Scalable Web apps. I am well-knowledged in UI/UX principles and
-                practices. In addition to software development, I am also a
-                technical writer--simplifying topics/concepts on the web.
+                As a versatile professional, I bring to the table over a year of experience seamlessly navigating the realms of both Administrative Assistance and Programming. My skill set is a well-rounded blend of expertise, specializing in the art of making office operations smoother, efficiently managing projects, and crafting intricate software solutions. I find joy in the daily challenges of enhancing productivity and creating seamless workflows. Beyond just meeting expectations, I am dedicated to exceeding them, consistently delivering work of the highest quality. With a passion for problem-solving and a commitment to excellence, I strive to make a meaningful impact in every role I undertake, showcasing not only proficiency but also a touch of creativity and flair.
               </p>
             </div>
           </div>
