@@ -29,22 +29,16 @@ const Skills = () => {
                   <p className='my-4'>NODE JS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>MONGO DB</p>
+                  <p className='my-4'>PHP</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>AWS</p>
+                  <p className='my-4'>MySql</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>Django</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>Sass</p>
+                  <p className='my-4'>SQL</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <p className='my-4'>Mongodb</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <p className='my-4'>GraphQl</p>
               </div>
           </div>
       </div>
