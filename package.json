@@ -11,10 +11,13 @@
   },
   "dependencies": {
     "@icongo/fa": "^1.2.0",
+    "@sendgrid/mail": "^8.1.1",
     "@tailwindcss/container-queries": "^0.1.1",
+    "mailto": "^0.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
+    "react-mailto": "^0.4.0",
     "react-scroll": "^1.9.0"
   },
   "devDependencies": {
