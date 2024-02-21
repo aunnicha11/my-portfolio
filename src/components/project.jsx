@@ -1,5 +1,5 @@
 import React from 'react';
-import code from '/code2.png';
+import code from '/greensculpt.png';
 
 const Project = () => {
   return (
@@ -17,10 +17,10 @@ const Project = () => {
           <div style={{ backgroundImage: `url(${code})` }} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
-              <span className=' text-lg font-bold text-white tracking-wider'>CBT Application</span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <span className=' text-lg font-bold text-white tracking-wider'>Green Sculpt</span>
+              <p className='text-center'>A sport web application built with React and Mongodb</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://greensculpt.vercel.app'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                         Demo
                     </button>
@@ -33,9 +33,9 @@ const Project = () => {
               </div>
             </div>
           </div>
-          <div style={{ backgroundImage: `url(${code})` }} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+          {/* <div style={{ backgroundImage: `url(${code})` }} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
+            {/* <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
                 CBT Application
               </span>
@@ -57,9 +57,9 @@ const Project = () => {
           <div
             style={{ backgroundImage: `url(${code})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
+          > */}
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
+            {/* <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
                 CBT Application
               </span>
@@ -81,9 +81,9 @@ const Project = () => {
           <div
             style={{ backgroundImage: `url(${code})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
+          > */}
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
+            {/* <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
                 CBT Application
               </span>
@@ -105,9 +105,9 @@ const Project = () => {
           <div
             style={{ backgroundImage: `url(${code})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
+          > */}
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
+            {/* <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
                 CBT Application
               </span>
@@ -125,13 +125,13 @@ const Project = () => {
                 </a>
               </div>
             </div>
-          </div>
-          <div
+          </div> */}
+          {/* <div
             style={{ backgroundImage: `url(${code})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
+          > */}
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
+            {/* <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
                 CBT Application
               </span>
@@ -149,7 +149,7 @@ const Project = () => {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
           
         </div>
       </div>
