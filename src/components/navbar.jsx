@@ -17,11 +17,12 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className='fixed w-80 h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
-      <div>
+    <div className='fixed w-80 h-[80px] flex justify-between items-center px-4 text-gray-300'>
+      {/* <div>
         <h1 className=' font-thin text-2xl italic font-serif'>AUNNICHA</h1>
-      </div>
+      </div> */}
       {/* menu */}
+      <div>
       <ul className='hidden md:flex gap-x-8 ml-auto'>
         <li>
           <Link to='home' smooth={true} duration={500}>
@@ -49,6 +50,7 @@ const Navbar = () => {
           </Link>
         </li>
       </ul>
+      </div>
       {/* Hamburger */}
       <div onClick={handleClick} className='md:hidden z-10'>
         {!nav ? <FaBars /> : <FaTimes />}
